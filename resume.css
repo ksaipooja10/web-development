@@ -1,0 +1,107 @@
+#con{
+    border:1px solid rgb(9, 9, 9);
+}
+
+
+#c1{
+    background-color: rgb(141, 195, 201);
+   margin-bottom: 10px;
+}
+#img1{
+    border-radius: 100px;
+    height: 150px;
+    width: 150px;
+    margin-left: 70px;
+    
+    
+}
+#con1{
+    
+    height: 25px;
+    font-size: 20px;
+    color: rgb(28, 6, 6);
+    text-align: center;
+}
+#con2{
+    text-align: center;
+    height: 25px;
+    font-size: 20px;
+    color: rgb(20, 19, 19);
+    
+}
+#con3{
+    text-align: center;
+     height: 25px;
+    font-size: 20px;
+    color: rgb(19, 12, 12);
+    
+}
+#con4{
+    text-align: center;
+    height: 25px;
+    font-size: 20px;
+    color: rgb(17, 16, 16);
+}
+#co2{
+    height: 175px;
+}
+#name{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 40px;
+    margin-bottom:0px;
+}
+#m1{
+    font-size:20px;
+}
+#obj{
+    font-size: 15px;
+    font-style: italic;
+}
+#work{
+    
+    height: 25px;
+    font-size: 20px;
+    color: rgb(10, 9, 9);
+    margin-bottom: 0px; 
+    text-align: center;
+}
+#m1{
+    margin-bottom: 10px;
+}
+#u1{
+    
+    margin-left: 70px;
+   
+}
+#u2{
+    margin-left: 70px;
+}
+#u3{
+    margin-left: 70px;
+}
+#p1{
+    font-size: 20px;
+    margin-left: 30px;
+
+}
+#u4{
+    margin-left: 50px;
+    font-size: 15px;
+}
+#education{
+    text-align: center;
+    height: 25px;
+    font-size: 20px;
+    color:rgb(9, 8, 8);
+       
+}
+#p2{
+    font-size: 15px;
+    margin-left:30px ;
+    font-style: thin;
+    font-family: inter;
+}
+#p3{
+    margin-left: 170px;
+    
+}
